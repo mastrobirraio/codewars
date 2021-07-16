@@ -56,4 +56,4 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## Resources
-* (https://en.wikipedia.org/wiki/ROT13)[https://en.wikipedia.org/wiki/ROT13]
+* [https://en.wikipedia.org/wiki/ROT13](https://en.wikipedia.org/wiki/ROT13)
