@@ -55,7 +55,7 @@ There's a folder for each kata nested in its own kyu
 
 This index will help you find all katas ordered alphabetically with a link to the kata folder.
 
-- 🚧 [6 Kyu - Index](https://github.com/mastrobirraio/codewars/tree/master/6-kyu/README.md)
+- 🚧  [6 Kyu - Index](https://github.com/mastrobirraio/codewars/tree/master/6-kyu/README.md)
 
 
 Notes:
